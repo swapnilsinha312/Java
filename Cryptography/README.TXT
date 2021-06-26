@@ -1,12 +1,14 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+This project was done as a part of the Coursera Course by Duke University on data structures using java 
+The course provided a walk through from simple encryption and decryption to breaking more and more complex codes as the course progressed. 
+The vigener cipher, caesars cipher to name a few. Towards the end language was also taken into account.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Improvements that can be made- Multithreading can certainly be introduced as it would lower the runtime which in the last assignment 
+(in which 5 languages were considered) was decently high. We can add some front end interface for now it is just run on developement environment 
+(I used Duke's version of BlueJ (It had some custom methods to make file handling easier).
+
+Course name- Java Programming: Arrays, Lists, and Structured Data Course by- Duke university on Coursera
+PURPOSE OF PROJECT: Learning and applying data structures in java
+VERSION or DATE: Completed August 2020
+HOW TO START THIS PROJECT: Go through the videos on the Coursera website( You can watch them for free) that will give you enough background info.
+AUTHORS: Swapnil Sinha
+
